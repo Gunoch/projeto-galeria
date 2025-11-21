@@ -2,7 +2,7 @@ export const IMAGES =  [
     {
         id: 1,
         title: "Marte",
-        description: "O planeta vermelho vheio de Aliens.",
+        description: "O planeta vermelho cheio de Aliens.",
         src: "/imgs/marte.jpg"
     },
     {

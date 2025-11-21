@@ -7,6 +7,7 @@ export default function App() {
       <p className="subtitle">
         Clique nas miniaturas ou use os botões para trocar a imagem.
       </p>
+      <Gallery />
     </div>
   );
 }

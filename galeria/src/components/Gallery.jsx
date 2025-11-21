@@ -29,7 +29,7 @@ export default function Gallery() {
         <div className="gallery">
             <ImagePreview image={currentImage} />
             <Controls 
-                current={currentImage+1}
+                current={currentIndex + 1}
                 total={IMAGES.length}
                 onPrevious={showPrevious}
                 onNext={showNext}
