@@ -1,22 +1,3 @@
-Guia Interativo: Galeria React (Vite)
-Uma exploração interativa do plano de aula, construída para ser robusta e à prova de falhas.
-
-🏠 Início
-🧠 Conceitos
-📁 Estrutura
-🛠️ Montagem
-Código-Fonte:
-App.jsx
-Gallery.jsx
-ImagePreview.jsx
-Controls.jsx
-ThumbnailStrip.jsx
-images.js
-main.jsx
-styles.css
-src/styles.css
-Define todo o visual da aplicação. O seletor `.thumb-button.active` é o ponto-chave que liga o estado do React ao CSS para destacar a miniatura ativa.
-
 * {
   box-sizing: border-box;
 }
